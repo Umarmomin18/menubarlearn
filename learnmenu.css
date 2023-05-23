@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.menu li{
+    list-style-type:none;
+    display: inline;
+    padding: 20px;
+    line-height: 3.5;
+}
+
+.menu{
+    font-style: italic;
+    color: brown;
+    line-height: 1px;
+    padding-top: 3px;
+    float: right;
+}
+.menu li:hover{
+    color: chartreuse;
+    cursor: pointer;
+}
+
+.header{    
+    height: 60px;
+    background-color: antiquewhite;
+    line-height: 2.5;
+}
+.react{
+    display: inline-block;
+
+}
+
+.main1{
+display: inline-block;
+float: left;
+margin-top: 100px;
+
+}
+
+.main1 h5,h1,p{
+    margin-bottom: 10px;
+}
+
+.name{
+    font-size: x-large;
+    margin-top: 15px;
+}
+.paragraph{
+    margin-top: 25px;
+}
+
+.button{
+    margin-top: 35px;
+}
+.EXPLORE{
+    font-size: 20px;
+    color: blue;
+    background-color: bisque;
+    border: 5px solid plum;
+    padding: 8px;
+    letter-spacing: 3px;
+    cursor: pointer;
+}
+
+.image img{
+    width: 45%;
+    height: 35%;
+    float: right;
+}
+
+.intro{
+    margin-top: 100px;
+}
+
+.container{
+    padding: 0 4rem;
+}
+
+body{
+    background-color: azure;
+}

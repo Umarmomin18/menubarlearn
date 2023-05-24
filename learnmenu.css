@@ -1,3 +1,16 @@
+.sticky{
+   
+    position: sticky;
+    top: 0;
+    background-color: yellow;
+    padding: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+
 * {
     padding: 0;
     margin: 0;
@@ -134,16 +147,18 @@ body {
 .services{
     margin-top: 180px;
     display: inline-block;
+    margin-bottom: 40px;
     
 }
 
 .services h1{
-    padding-left: 140px;
+    padding-left: 120px;
 }
 
 .services p{
     text-align: center;
     margin-top: 30px;
+    margin-left: -35px;
 }
 
 .box1{
@@ -186,6 +201,7 @@ body {
 
 .c123{
     margin-left: 20px;
+    margin-bottom: 70px;
     
 }
 
@@ -247,3 +263,4 @@ body {
     margin-left: 100px;
 
 }
+
